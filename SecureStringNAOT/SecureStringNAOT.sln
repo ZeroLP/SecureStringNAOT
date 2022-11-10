@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureStringNAOT", "SecureStringNAOT\SecureStringNAOT.csproj", "{DFEF0854-F994-44FC-B72A-47EE5A5063D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEF0854-F994-44FC-B72A-47EE5A5063D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEF0854-F994-44FC-B72A-47EE5A5063D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEF0854-F994-44FC-B72A-47EE5A5063D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEF0854-F994-44FC-B72A-47EE5A5063D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5451C0C-6DB4-4829-829E-6E9D63354EB6}
+	EndGlobalSection
+EndGlobal
